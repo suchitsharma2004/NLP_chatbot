@@ -35,16 +35,16 @@
       "tag": "courses",
       "patterns": [
         "What courses do you offer?",
-        "What streams are taught at IIIT Dharwad?",
+        "What streams are taught at Bennett University?",
         "What streams are availabe?",
         "What kinds of subjects are taught in this college?",
         "Do you guys teach DSAI?",
-        "Is ML or AI taught in IIIT Dharwad?",
-        "What are the B.Tech programmes availabe at IIIT Dharwad?"
+        "Is ML or AI taught in Bennett University?",
+        "What are the B.Tech programmes availabe at Bennett University?"
       ],
       "responses": [
-        "We at IIIT Dharwad offer B.Tech programs in CSE, ECE and DSAI and PhD programs in CSE and ECE",
-        "IIIT Dharwad has B.Tech CSE, ECE and DSAI curriculums and PhD programs in CSE and ECE"
+        "We at Bennett University offer B.Tech programs in CSE, ECE and DSAI and PhD programs in CSE and ECE",
+        "Bennett University has B.Tech CSE, ECE and DSAI curriculums and PhD programs in CSE and ECE"
       ]
     },
     {
@@ -70,9 +70,9 @@
       "tag": "contact",
       "patterns": [
         "Contact details of faculty",
-        "How do I contact IIIT Dharwad?",
+        "How do I contact Bennett University?",
         "Phone number of Registrar",
-        "Contact Director of IIIT Dharwad",
+        "Contact Director of Bennett University ",
         "How to contact HoD of CSE branch",
         "Contact admin",
         "Contact details of incharge",
@@ -81,45 +81,45 @@
         "Emergency contact details"
       ],
       "responses": [
-        "Contact Email: contact@iiitdwd.ac.in , Contact Number: 0836 2250879/ 0836 2357747",
-        "Please reach out to us at contact@iiitdwd.ac.in or Ph: 0836 2250879/ 0836 2357747"
+        "Contact Email: contact@BennettUniversity.ac.in , Contact Number: 0836 2250879/ 0836 2357747",
+        "Please reach out to us at contact@Bennett.ac.in or Ph: 0836 2250879/ 0836 2357747"
       ]
     },
     {
       "tag": "placements",
       "patterns": [
-        "What are the placement statistics at IIIT Dharwad?",
-        "How are placements at IIIT Dharwad?",
+        "What are the placement statistics at Bennett University?",
+        "How are placements at Bennett University?",
         "B.Tech CSE placement statistics",
         "B.Tech ECE placement statistics",
-        "What companies come for placements at IIIT Dharwad?",
+        "What companies come for placements at Bennett University?",
         "B.Tech DSAI placement statistics",
-        "Placement percentage of IIIT Dharwad",
-        "Highest placement at IIIT Dharwad",
-        "Product based companies at IIIT Dharwad",
-        "How many students got internships at IIIT Dharwad?",
+        "Placement percentage of Bennett University",
+        "Highest placement at Bennett University",
+        "Product based companies at Bennett University",
+        "How many students got internships at Bennett University?",
         "Internship statistics"
       ],
       "responses": [
-        "Thank you for your interest regarding placements @ IIIT Dharwad. Please visit https://iiitdwd.ac.in/careerGuidance.php for detailed stats.",
-        "Check out our CGC Portal (https://iiitdwd.ac.in/careerGuidance.php) for detailed information regarding placements at IIIT Dharwad."
+        "Thank you for your interest regarding placements @ Bennett University. Please visit https://Bennett University.ac.in/careerGuidance.php for detailed stats.",
+        "Check out our CGC Portal (https://Bennett University.ac.in/careerGuidance.php) for detailed information regarding placements at Bennett University."
       ]
     },
     {
       "tag": "location",
       "patterns": [
         "Address of IIIT Dharwad",
-        "Where is the permanent campus of IIIT Dharwad located?",
+        "Where is the permanent campus of Bennett Universityd located?",
         "How much time does it take to reach the campus from Hubli airport?",
         "How much time does it take to reach the campus from Hubli Station?",
         "Hubli to Dharwad",
-        "How to reach IIIT Dharwad?",
+        "How to reach Bennett University?",
         "Bangalore to IIIT Dharwad travel guide",
-        "Where is IIIT Dharwad located?",
-        "Is IIIT Dharwad in Karnataka?"
+        "Where is Bennett University located?",
+        "Is Bennett University in Karnataka?"
       ],
       "responses": [
-        "Our address is : IIIT Campus, Ittigatti Road, Near Sattur Colony, Dharwad 580009.",
+        "Our address is : Bennett University Campus, Ittigatti Road, Near Sattur Colony, Dharwad 580009.",
         "IIIT Campus is located at Ittigatti Road, Near Sattur Colony, Dharwad 580009."
       ]
     }
